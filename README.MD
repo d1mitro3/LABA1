@@ -11,3 +11,4 @@
 ![](https://i.imgur.com/elV6VKy.png)
 <h2>Ссылки на используемые материалы</h2> 
 <https://clck.ru/3vyXS>
+<img src="https://i.imgur.com/ZwgLz6W.png">
