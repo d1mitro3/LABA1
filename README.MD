@@ -1,3 +1,13 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h2>Задание</h2> 
+Решить задачи, написать вернеуровневый модуль, покрыть всё ***pytest***
+
+<h2>Описание проделанной работы</h2> 
+Написал функции в каждом файле![](https://i.imgur.com/vx4a6hk.png)<br>Напиcал верхнеуровневый модуль - ___main.py___ . <br>В ___main.py___ импортирую функции с других файлов![](https://i.imgur.com/MJPo7tN.png)
+Функции ***pytest*** ![](https://i.imgur.com/ZwgLz6W.png)
+
+<h2>Шпаргалку по работе с командами git.</h2> 
+<https://clck.ru/36SgWV>
+<h2>Скриншоты результатов</h2> 
+![](https://i.imgur.com/elV6VKy.png)
+<h2>Ссылки на используемые материалы</h2> 
+<https://clck.ru/3vyXS>
